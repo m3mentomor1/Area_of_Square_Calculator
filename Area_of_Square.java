@@ -1,15 +1,3 @@
-
-/*  ------------------------------------------------------
- *	File Name: Area_of_Square.java
- *  ------------------------------------------------------
- *  Date Created: 01-21-2021
- *  ------------------------------------------------------
- *  Description:
- *  This program is a calculator that calculates the 
- *  area of a square based on the side length provided 
- *  by the user.
- *  ------------------------------------------------------ */
-
 import java.util.Scanner;
 
 public class Area_of_Square 
@@ -18,7 +6,7 @@ public class Area_of_Square
     {
 		/*
 		 * Formula:
-		 * A = (side x side)
+		 * A = side x side
 		 */
 
         Scanner length = new Scanner(System.in); 
