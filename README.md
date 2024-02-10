@@ -21,12 +21,12 @@ This program is a calculator that calculates the area of a square based on each 
 
 > **1. Create a copy of this repository:**
    ```
-   git clone https://github.com/m3mentomor1/Console-based_Area_of_Square_Calculator.git
+   git clone https://github.com/m3mentomor1/Area_of_Square_Calculator.git
    ```
 
 > **2. Go to the repository's main directory:**
    ```
-   cd Console-based_Area_of_Square_Calculator
+   cd Area_of_Square_Calculator
    ```
 ##
 **Method 2: Fork repository**
