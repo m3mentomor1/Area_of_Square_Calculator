@@ -1,4 +1,4 @@
-# Console-based Area of Square Calculator
+# Area of Square Calculator
 
 ### 🧐 I. Overview
 This program is a calculator that calculates the area of a square based on each side length provided by the user.
@@ -11,6 +11,7 @@ This program is a calculator that calculates the area of a square based on each 
 ----------------------
 
 ### ⏯️ III. Demo
+![gife](https://github.com/m3mentomor1/Area_of_Square_Calculator/assets/95956735/0a6141cb-6caf-4f11-ba76-20b441d31d27)
 
 
 ----------------------
